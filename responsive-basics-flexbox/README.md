@@ -20,7 +20,7 @@
 ## Screenshots
 
 
-<img src="./screenshots/small.png" alt="small size full page screenshot of the website">
+<img src="./screenshots/small.jpg" alt="small size full page screenshot of the website">
 
-<img src="./screenshots/large.png" alt="large size full page screenshot of the website">
+<img src="./screenshots/large.jpg" alt="large size full page screenshot of the website">
 
