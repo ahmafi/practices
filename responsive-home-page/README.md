@@ -1,4 +1,6 @@
-# Responsive Home Page
+# Responsive Home Page 
+
+[![Live Demo](../icons/live-demo.svg)](https://ahmafi.github.io/practices/responsive-home-page/)
 
 ## Tutorial
 [Introduction To Responsive Web Design](https://www.youtube.com/watch?v=srvUrASNj0s&t=1s)
